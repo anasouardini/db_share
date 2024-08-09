@@ -1,0 +1,5 @@
+/*!40101 SET NAMES binary*/;
+/*!40014 SET FOREIGN_KEY_CHECKS=0*/;
+/*!40103 SET TIME_ZONE='+00:00' */;
+INSERT INTO `users` VALUES
+("9cb9544f-4c8f-4362-9a43-6ff50e6f72d1","venego","venego","venego@e.c","2024-08-09 09:06:13","$2y$12$jYfYTZrZax1GOgKVuO7rl.KpZB8.u3dcMwfz7BUtOmodqn6Wi8hae",NULL,"2024-08-09 09:06:13","2024-08-09 09:06:13");
